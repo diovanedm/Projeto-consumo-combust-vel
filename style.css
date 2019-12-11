@@ -1,0 +1,33 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.formulario {
+    background: #2E3698;
+    height: 100%;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+form {
+    background:#F3CC38;
+    padding: 30px;
+    border-radius: 5px;
+    display: grid;
+}
+
+input {
+    display: block;
+    margin-bottom: 5px;
+}
+
+button {
+    border-radius: 5px;
+    background-color: #2E3698;
+    color: white;
+    border-style: none;
+    padding: 5px;
+}
